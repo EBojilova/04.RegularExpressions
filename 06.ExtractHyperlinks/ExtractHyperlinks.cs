@@ -6,7 +6,6 @@ class ExtractHyperlinks
 {
     static void Main(string[] args)
     {
-        // nulevite testove minavat, no dava 0 tochki v Judge
         string inputLine;
         StringBuilder sb = new StringBuilder();
         while (!((inputLine = Console.ReadLine()) == "END"))
