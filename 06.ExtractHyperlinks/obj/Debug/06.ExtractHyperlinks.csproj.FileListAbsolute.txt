@@ -1,0 +1,6 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\04.RegularExpressions\06.ExtractHyperlinks\bin\Debug\06.ExtractHyperlinks.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\04.RegularExpressions\06.ExtractHyperlinks\bin\Debug\06.ExtractHyperlinks.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\04.RegularExpressions\06.ExtractHyperlinks\bin\Debug\06.ExtractHyperlinks.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\04.RegularExpressions\06.ExtractHyperlinks\obj\Debug\06.ExtractHyperlinks.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\04.RegularExpressions\06.ExtractHyperlinks\obj\Debug\06.ExtractHyperlinks.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\04.RegularExpressions\06.ExtractHyperlinks\obj\Debug\06.ExtractHyperlinks.pdb

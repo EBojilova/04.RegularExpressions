@@ -1,0 +1,6 @@
+c:\users\elena\documents\visual studio 2013\Projects\04.RegularExpressions\01.SeriesOfLetters\bin\Debug\01.SeriesOfLetters.exe.config
+c:\users\elena\documents\visual studio 2013\Projects\04.RegularExpressions\01.SeriesOfLetters\bin\Debug\01.SeriesOfLetters.exe
+c:\users\elena\documents\visual studio 2013\Projects\04.RegularExpressions\01.SeriesOfLetters\bin\Debug\01.SeriesOfLetters.pdb
+c:\users\elena\documents\visual studio 2013\Projects\04.RegularExpressions\01.SeriesOfLetters\obj\Debug\01.SeriesOfLetters.csprojResolveAssemblyReference.cache
+c:\users\elena\documents\visual studio 2013\Projects\04.RegularExpressions\01.SeriesOfLetters\obj\Debug\01.SeriesOfLetters.exe
+c:\users\elena\documents\visual studio 2013\Projects\04.RegularExpressions\01.SeriesOfLetters\obj\Debug\01.SeriesOfLetters.pdb

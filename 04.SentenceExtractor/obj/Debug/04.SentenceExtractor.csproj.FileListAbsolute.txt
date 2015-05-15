@@ -1,0 +1,6 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\04.RegularExpressions\04.SentenceExtractor\bin\Debug\04.SentenceExtractor.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\04.RegularExpressions\04.SentenceExtractor\bin\Debug\04.SentenceExtractor.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\04.RegularExpressions\04.SentenceExtractor\bin\Debug\04.SentenceExtractor.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\04.RegularExpressions\04.SentenceExtractor\obj\Debug\04.SentenceExtractor.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\04.RegularExpressions\04.SentenceExtractor\obj\Debug\04.SentenceExtractor.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\04.RegularExpressions\04.SentenceExtractor\obj\Debug\04.SentenceExtractor.pdb

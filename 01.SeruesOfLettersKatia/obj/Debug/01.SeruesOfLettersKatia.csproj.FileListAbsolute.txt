@@ -1,0 +1,6 @@
+c:\users\elena\documents\visual studio 2013\Projects\04.RegularExpressions\01.SeruesOfLettersKatia\bin\Debug\01.SeruesOfLettersKatia.exe.config
+c:\users\elena\documents\visual studio 2013\Projects\04.RegularExpressions\01.SeruesOfLettersKatia\bin\Debug\01.SeruesOfLettersKatia.exe
+c:\users\elena\documents\visual studio 2013\Projects\04.RegularExpressions\01.SeruesOfLettersKatia\bin\Debug\01.SeruesOfLettersKatia.pdb
+c:\users\elena\documents\visual studio 2013\Projects\04.RegularExpressions\01.SeruesOfLettersKatia\obj\Debug\01.SeruesOfLettersKatia.csprojResolveAssemblyReference.cache
+c:\users\elena\documents\visual studio 2013\Projects\04.RegularExpressions\01.SeruesOfLettersKatia\obj\Debug\01.SeruesOfLettersKatia.exe
+c:\users\elena\documents\visual studio 2013\Projects\04.RegularExpressions\01.SeruesOfLettersKatia\obj\Debug\01.SeruesOfLettersKatia.pdb
