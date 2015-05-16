@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Text;
 using System.Text.RegularExpressions;
 
 class QueryMess
@@ -8,7 +7,6 @@ class QueryMess
     static void Main(string[] args)
     {
         string text;
-        StringBuilder sb = new StringBuilder();
         string patternRepl = @"\s{2,}";
         Regex regexRepl = new Regex(patternRepl);
         string pattern = @"([^=&]+)=([^&=]+)";
