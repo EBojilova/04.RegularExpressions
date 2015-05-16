@@ -13,6 +13,7 @@ class ExtractHyperlinks
             sb.Append(inputLine);
         }
         string text = sb.ToString();
+        //               @"<\s*a\s[^>]*?\bhref\s*=\s*('(?<url>[^']*)'|""(?<url>[^""]*)""|(?<url>\S*))[^>]*>(?<linktext>(.|\s)*?)<\s*/a\s*>";
         string pattern = @"<a\s+(?:[^>]+\s+)?href\s*=\s*(?:'([^']*)'|""([^""]*)""|([^\s>]+))[^>]*>";
         Regex users = new Regex(pattern);
         MatchCollection matches = users.Matches(text);

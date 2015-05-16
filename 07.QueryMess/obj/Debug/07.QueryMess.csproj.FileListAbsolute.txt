@@ -1,1 +1,6 @@
 C:\Users\Elena\Documents\Visual Studio 2013\Projects\04.RegularExpressions\07.QueryMess\bin\Debug\07.QueryMess.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\04.RegularExpressions\07.QueryMess\bin\Debug\07.QueryMess.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\04.RegularExpressions\07.QueryMess\bin\Debug\07.QueryMess.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\04.RegularExpressions\07.QueryMess\obj\Debug\07.QueryMess.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\04.RegularExpressions\07.QueryMess\obj\Debug\07.QueryMess.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\04.RegularExpressions\07.QueryMess\obj\Debug\07.QueryMess.pdb
