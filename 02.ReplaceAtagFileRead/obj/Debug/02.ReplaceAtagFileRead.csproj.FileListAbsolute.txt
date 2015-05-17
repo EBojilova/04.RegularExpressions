@@ -1,0 +1,6 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\04.RegularExpressions\02.ReplaceAtagFileRead\bin\Debug\02.ReplaceAtagFileRead.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\04.RegularExpressions\02.ReplaceAtagFileRead\bin\Debug\02.ReplaceAtagFileRead.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\04.RegularExpressions\02.ReplaceAtagFileRead\bin\Debug\02.ReplaceAtagFileRead.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\04.RegularExpressions\02.ReplaceAtagFileRead\obj\Debug\02.ReplaceAtagFileRead.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\04.RegularExpressions\02.ReplaceAtagFileRead\obj\Debug\02.ReplaceAtagFileRead.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\04.RegularExpressions\02.ReplaceAtagFileRead\obj\Debug\02.ReplaceAtagFileRead.pdb
