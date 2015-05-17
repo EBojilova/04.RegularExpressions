@@ -7,9 +7,11 @@ class SencenceExtractor
     {
         string word = Console.ReadLine();
         string text = Console.ReadLine();
+        // Innos                           @"([^!.?]*\b{0}\b[^!.?]*[!.?])";
         string pattern = string.Format(@"(?<=\s|^)(.*?\b{0}\b.*?(?=\!|\.|\?)[?.!])", word);
         Regex regexSentence = new Regex(pattern);
         MatchCollection matches = regexSentence.Matches(text);
+        //MatchCollection matches = Regex.Matches(text, pattern, RegexOptions.IgnoreCase);
         Console.WriteLine("Found {0} matches", matches.Count);
         foreach (Match sentence in matches)
         {
