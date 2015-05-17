@@ -25,7 +25,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.ReplaceAtagFileRead", "0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.ExtractEmailsToFileItalic", "03.ExtractEmailsToFileItalic\03.ExtractEmailsToFileItalic.csproj", "{CE99AD73-9FB4-408B-8C4C-6B2707BC02B9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.SemanticHTML", "09.SemanticHTML\09.SemanticHTML.csproj", "{A729B062-7659-4112-855F-9F01EB75BF5B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.SemanticHTMLInnos", "09.SemanticHTMLInnos\09.SemanticHTMLInnos.csproj", "{362CFCF9-14A4-4C0A-B769-C07BE9D686A3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -77,10 +77,10 @@ Global
 		{CE99AD73-9FB4-408B-8C4C-6B2707BC02B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CE99AD73-9FB4-408B-8C4C-6B2707BC02B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CE99AD73-9FB4-408B-8C4C-6B2707BC02B9}.Release|Any CPU.Build.0 = Release|Any CPU
-		{A729B062-7659-4112-855F-9F01EB75BF5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A729B062-7659-4112-855F-9F01EB75BF5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A729B062-7659-4112-855F-9F01EB75BF5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A729B062-7659-4112-855F-9F01EB75BF5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{362CFCF9-14A4-4C0A-B769-C07BE9D686A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{362CFCF9-14A4-4C0A-B769-C07BE9D686A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{362CFCF9-14A4-4C0A-B769-C07BE9D686A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{362CFCF9-14A4-4C0A-B769-C07BE9D686A3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
