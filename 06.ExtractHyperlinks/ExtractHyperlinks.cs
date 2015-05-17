@@ -13,20 +13,15 @@ class ExtractHyperlinks
             sb.Append(inputLine);
         }
         string text = sb.ToString();
-        //               @"<\s*a\s[^>]*?\bhref\s*=\s*('(?<url>[^']*)'|""(?<url>[^""]*)""|(?<url>\S*))[^>]*>(?<linktext>(.|\s)*?)<\s*/a\s*>";
-        string pattern = @"<a\s+(?:[^>]+\s+)?href\s*=\s*(?:'([^']*)'|""([^""]*)""|([^\s>]+))[^>]*>";
+        //     Nakov   @"<\s*a\s[^>]*?\bhref\s*=\s*('(?<url>[^']*)'|""(?<url>[^""]*)""|(?<url>\S*))[^>]*>(?<linktext>(.|\s)*?)<\s*/a\s*>";
+        //     Innos   @"(?<=<a\s+(?:[^>]+\s+)?href\s*=\s*)(?:""([^""]*)""|'([^']*)'|([^\s>]+))(?=[^>]*>)";
+        string pattern = @"<a\s+(?:[^>]+\s+)?href\s*=\s*(?:'(?<url>[^']*)'|""(?<url>[^""]*)""|(?<url>[^\s>]+))[^>]*>";
         Regex users = new Regex(pattern);
         MatchCollection matches = users.Matches(text);
         //Console.WriteLine("Found {0} matches", matches.Count);
         foreach (Match hyperlink in matches)
         {
-            for (int i = 1; i <= 3; i++)
-            {
-                if (hyperlink.Groups[i].Length>0)
-                {
-                    Console.WriteLine(hyperlink.Groups[i]);
-                }
-            } 
+            Console.WriteLine(hyperlink.Groups["url"]);
         }
     }
 }

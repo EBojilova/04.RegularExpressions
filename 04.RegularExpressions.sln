@@ -21,6 +21,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.QueryMess", "07.QueryMes
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.UseYourChainsBuddy", "08.UseYourChainsBuddy\08.UseYourChainsBuddy.csproj", "{5C4D5EEA-62BE-45FA-8A6B-DEC9F1D97C6C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.ReplaceAtagFileRead", "02.ReplaceAtagFileRead\02.ReplaceAtagFileRead.csproj", "{1796DBA9-0C13-4B76-82F4-113DF4637E45}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.ExtractEmailsToFileItalic", "03.ExtractEmailsToFileItalic\03.ExtractEmailsToFileItalic.csproj", "{CE99AD73-9FB4-408B-8C4C-6B2707BC02B9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +67,14 @@ Global
 		{5C4D5EEA-62BE-45FA-8A6B-DEC9F1D97C6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5C4D5EEA-62BE-45FA-8A6B-DEC9F1D97C6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5C4D5EEA-62BE-45FA-8A6B-DEC9F1D97C6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1796DBA9-0C13-4B76-82F4-113DF4637E45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1796DBA9-0C13-4B76-82F4-113DF4637E45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1796DBA9-0C13-4B76-82F4-113DF4637E45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1796DBA9-0C13-4B76-82F4-113DF4637E45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE99AD73-9FB4-408B-8C4C-6B2707BC02B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE99AD73-9FB4-408B-8C4C-6B2707BC02B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE99AD73-9FB4-408B-8C4C-6B2707BC02B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE99AD73-9FB4-408B-8C4C-6B2707BC02B9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
