@@ -13,14 +13,11 @@ class UseYourChainsBuddy
         string patternRepl = @"[^a-z0-9]+";
         string patternSpace = @"\s{2,}";
         StringBuilder sb = new StringBuilder();
-        Regex regex = new Regex(pattern);
-        Regex regexRepl = new Regex(patternRepl);
-        Regex regexSpace = new Regex(patternRepl);
-        MatchCollection matches = regex.Matches(text);
+        MatchCollection matches = Regex.Matches(text, pattern, RegexOptions.IgnoreCase);
         foreach (Match match in matches)
         {
             string tag = match.Groups[1].ToString();
-            tag = regexRepl.Replace(tag, " ");
+            tag = Regex.Replace(tag, patternRepl, " ");
             char[] tagChars = tag.ToCharArray();
             for (int i = 0; i < tagChars.Length; i++)
             {
@@ -36,7 +33,7 @@ class UseYourChainsBuddy
             sb.Append(new string(tagChars));
         }
         text = sb.ToString();
-        text = regexSpace.Replace(text, " ");
+        text = Regex.Replace(text, patternRepl, " ");
         Console.WriteLine(text);
     }
 }
