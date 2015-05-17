@@ -1,0 +1,5 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\04.RegularExpressions\03.ExtractEmailsToFileItalic\bin\Debug\03.ExtractEmailsToFileItalic.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\04.RegularExpressions\03.ExtractEmailsToFileItalic\bin\Debug\03.ExtractEmailsToFileItalic.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\04.RegularExpressions\03.ExtractEmailsToFileItalic\bin\Debug\03.ExtractEmailsToFileItalic.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\04.RegularExpressions\03.ExtractEmailsToFileItalic\obj\Debug\03.ExtractEmailsToFileItalic.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\04.RegularExpressions\03.ExtractEmailsToFileItalic\obj\Debug\03.ExtractEmailsToFileItalic.pdb
